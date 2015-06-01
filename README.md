@@ -36,5 +36,4 @@ map.addLayer(line);
 
 ## Requirements
 
- * [Leaflet.GeometryUtil](https://github.com/makinacorpus/Leaflet.GeometryUtil)
-
+ * https://github.com/makinacorpus/Leaflet.GeometryUtil
