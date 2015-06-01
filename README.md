@@ -2,9 +2,11 @@
 
 Plugin for Leaflet to display markers along a route at equivalent distances.
 
-## Example
+forked from http://adoroszlai.github.com/leaflet-distance-markers/
 
-[demo](https://adoroszlai.github.io/leaflet-distance-markers/)
+## My Demo
+
+https://jackdougherty.github.io/leaflet-distance-markers
 
 ```javascript
 // use defaults
