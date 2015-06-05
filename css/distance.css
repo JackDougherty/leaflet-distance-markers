@@ -1,7 +1,7 @@
 .leaflet-control-distance {
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	border-radius: 10px;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	border-radius: 7px;
 
 	padding: 5px;
 	background-color: rgba(0, 0, 0, 0.25);
