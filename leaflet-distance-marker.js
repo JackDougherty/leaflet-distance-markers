@@ -26,7 +26,7 @@
 L.DistanceMarkers = L.LayerGroup.extend({
 	initialize: function (line, map, options) {
 		options = options || {};
-		var offset = options.offset || 1000;
+		var offset = options.offset || 1609.34; /* meters to equal 1 mile */
 		var showAll = Math.min(map.getMaxZoom(), options.showAll || 12);
 		var cssClass = options.cssClass || 'dist-marker';
 
